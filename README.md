@@ -199,8 +199,9 @@ export class RectagleComponent{
 
 ~~~
 ## OUTPUT:
-
-### Home Page:
+![HOME](./angular/con1.png)
+![HOME2](./angular/con2.png)
 
 
 ## Result:
+Therefore we successfully designed a dynamic website to perform mathematical calculations using Angular Framwork
